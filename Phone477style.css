@@ -1,0 +1,36 @@
+
+div#footer{
+    height: auto;
+}
+#navbar ul li{
+    font-size: 9px;
+}
+#navbar ul li a{
+    padding: 3px 14px;
+    font-size: 0.8rem;
+}
+#home h1{
+    font-size: 1.8rem;
+}
+/* #p1{
+    font-size: 0.9rem;
+} */
+#p2{
+    font-size: 0.9rem;
+}
+
+.box img{
+    width: 5rem;
+    height: 6rem;  
+
+}
+#clientsec img{
+    width: 10rem;
+    height: 8rem;
+}
+.box{
+    padding: 1rem;
+}
+#formfill input{
+    font-size: 0.75rem;
+}

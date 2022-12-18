@@ -1,0 +1,62 @@
+
+/* reset */
+
+
+/* logo */
+
+
+
+/* navbar */
+#navbar{
+    flex-direction: column;
+}
+
+/* home */
+
+
+#p1{
+    width:74vw;
+}
+
+#p2{
+    width: 74vw;
+}
+
+
+
+.header{
+    height: 80vh;
+}
+
+/* services */
+
+
+.services{
+    flex-direction: column;
+}
+
+
+/* clientsec */
+#clientsec{
+    flex-wrap: wrap;
+}
+
+
+
+/* Contact */
+#contact h2{
+    font-size: 20px;
+}
+
+
+
+/* footer */
+
+
+
+
+
+
+
+
+
