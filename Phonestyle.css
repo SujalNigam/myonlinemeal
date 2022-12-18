@@ -47,7 +47,15 @@
 #contact h2{
     font-size: 20px;
 }
-
+#formfill{
+    width: 60vw;
+}
+#formfill input{
+    width: 60vw;
+}
+#formfill textarea{
+    width: 60vw;
+}
 
 
 /* footer */
