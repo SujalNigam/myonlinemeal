@@ -32,6 +32,14 @@ div#footer{
 .box{
     padding: 1rem;
 }
+
+#formfill{
+    width: 85vw;
+}
 #formfill input{
     font-size: 0.75rem;
+    width: 85vw;
+}
+#formfill textarea{
+    width: 85vw;
 }
